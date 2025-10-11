@@ -1,7 +1,7 @@
 
 # Claude Code toolchain
 
-## ✨ Markplace
+## ✨ Marketplace
 
 Plugins:
 - [cc-caffeine](https://github.com/samber/cc-caffeine): Prevents your computer from sleeping while Claude Code works hard

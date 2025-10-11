@@ -1,0 +1,17 @@
+{
+  "name": "samber",
+  "owner": {
+    "name": "Samuel Berthe",
+    "email": "hey@samuel-berthe.fr"
+  },
+  "plugins": [
+    {
+      "name": "cc-caffeine",
+      "source": {
+        "source": "github",
+        "repo": "samber/cc-caffeine"
+      },
+      "description": "Prevents your computer from sleeping while Claude Code works hard"
+    }
+  ]
+}

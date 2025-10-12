@@ -7,11 +7,30 @@
   "plugins": [
     {
       "name": "cc-caffeine",
+      "description": "Prevents your computer from sleeping while Claude Code works hard",
       "source": {
         "source": "github",
         "repo": "samber/cc-caffeine"
       },
-      "description": "Prevents your computer from sleeping while Claude Code works hard"
+      "author": {
+        "name": "Samuel Berthe",
+        "email": "hey@samuel-berthe.fr"
+      },
+      "homepage": "https://github.com/samber/cc-caffeine",
+      "repository": "https://github.com/samber/cc-caffeine",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "plugin",
+        "nap",
+        "sleep",
+        "sleep-prevention",
+        "caffeine",
+        "caffeinate",
+        "system-tray"
+      ],
+      "category": "productivity"
     }
   ]
 }

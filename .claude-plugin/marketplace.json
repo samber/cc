@@ -31,6 +31,55 @@
         "system-tray"
       ],
       "category": "productivity"
+    },
+    {
+      "name": "cc-skills",
+      "description": "AI Agent Skills",
+      "source": {
+        "source": "github",
+        "repo": "samber/cc-skills"
+      },
+      "author": {
+        "name": "Samuel Berthe",
+        "email": "hey@samuel-berthe.fr"
+      },
+      "homepage": "https://github.com/samber/cc-skills",
+      "repository": "https://github.com/samber/cc-skills",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "plugin",
+        "ai-agent",
+        "skills"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "cc-skills-golang",
+      "description": "AI Agent Skills for production-ready Go projects",
+      "source": {
+        "source": "github",
+        "repo": "samber/cc-skills-golang"
+      },
+      "author": {
+        "name": "Samuel Berthe",
+        "email": "hey@samuel-berthe.fr"
+      },
+      "homepage": "https://github.com/samber/cc-skills-golang",
+      "repository": "https://github.com/samber/cc-skills-golang",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "plugin",
+        "golang",
+        "go",
+        "ai-agent",
+        "skills",
+        "agentic"
+      ],
+      "category": "productivity"
     }
   ]
 }

@@ -80,6 +80,33 @@
         "agentic"
       ],
       "category": "productivity"
+    },
+    {
+      "name": "godig",
+      "description": "MCP server for pkg.go.dev",
+      "source": {
+        "source": "github",
+        "repo": "samber/godig"
+      },
+      "author": {
+        "name": "Samuel Berthe",
+        "email": "hey@samuel-berthe.fr"
+      },
+      "homepage": "https://github.com/samber/godig",
+      "repository": "https://github.com/samber/godig",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "plugin",
+        "golang",
+        "go",
+        "ai-agent",
+        "skills",
+        "agentic",
+        "mcp"
+      ],
+      "category": "productivity"
     }
   ]
 }

@@ -82,6 +82,91 @@
       "category": "productivity"
     },
     {
+      "name": "dev-event-organizer-skills",
+      "description": "AI Agent Skills for technical event operations: conferences, meetups, hackathons, speakers, and sponsorships",
+      "source": {
+        "source": "github",
+        "repo": "samber/dev-event-organizer-skills"
+      },
+      "author": {
+        "name": "Samuel Berthe",
+        "email": "hey@samuel-berthe.fr"
+      },
+      "homepage": "https://github.com/samber/dev-event-organizer-skills",
+      "repository": "https://github.com/samber/dev-event-organizer-skills",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "plugin",
+        "ai-agent",
+        "skills",
+        "agentic",
+        "events",
+        "conferences",
+        "meetups",
+        "hackathons",
+        "sponsorship"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "developer-platform-skills",
+      "description": "AI Agent Skills for platform and SDK developer experience: API design, integrations, marketplace strategy, and onboarding",
+      "source": {
+        "source": "github",
+        "repo": "samber/developer-platform-skills"
+      },
+      "author": {
+        "name": "Samuel Berthe",
+        "email": "hey@samuel-berthe.fr"
+      },
+      "homepage": "https://github.com/samber/developer-platform-skills",
+      "repository": "https://github.com/samber/developer-platform-skills",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "plugin",
+        "ai-agent",
+        "skills",
+        "agentic",
+        "api-design",
+        "sdk",
+        "developer-platform",
+        "developer-experience"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "developer-relations-skills",
+      "description": "AI Agent Skills for developer relations: open source strategy, community programs, technical content, and developer GTM",
+      "source": {
+        "source": "github",
+        "repo": "samber/developer-relations-skills"
+      },
+      "author": {
+        "name": "Samuel Berthe",
+        "email": "hey@samuel-berthe.fr"
+      },
+      "homepage": "https://github.com/samber/developer-relations-skills",
+      "repository": "https://github.com/samber/developer-relations-skills",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "plugin",
+        "ai-agent",
+        "skills",
+        "agentic",
+        "devrel",
+        "developer-advocacy",
+        "open-source",
+        "community"
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "godig",
       "description": "MCP server for pkg.go.dev",
       "source": {
